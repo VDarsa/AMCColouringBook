@@ -1,25 +1,27 @@
-about.html
-``
 <!DOCTYPE html>
 <html>
 <head>
 <title>About the Creators</title>
+
+<style>
+body{
+  text-align:center;
+  font-family:Arial,sans-serif;
+}
+
+img{
+  width:100%;
+  max-width:900px;
+}
+</style>
+
 </head>
 
-<body
-style="
-max-width:900px;
-margin:auto;
-padding:30px;
-font-family:Arial;
-text-align:center;
-"
->
+<body>
 
-<img
-src="about.png"
-width="100%"
->
+<h1>About the Creators</h1>
+
+<img src="About page.jpg">
 
 <br><br>
 
