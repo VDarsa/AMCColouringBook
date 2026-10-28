@@ -1,0 +1,31 @@
+about.html
+``
+<!DOCTYPE html>
+<html>
+<head>
+<title>About the Creators</title>
+</head>
+
+<body
+style="
+max-width:900px;
+margin:auto;
+padding:30px;
+font-family:Arial;
+text-align:center;
+"
+>
+
+<img
+src="about.png"
+width="100%"
+>
+
+<br><br>
+
+<a href="index.html">
+Back Home
+</a>
+
+</body>
+</html>
