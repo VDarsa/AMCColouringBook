@@ -1,0 +1,34 @@
+backcover.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Back Cover</title>
+
+<style>
+body{
+ text-align:center;
+ font-family:Arial,sans-serif;
+}
+
+img{
+ width:100%;
+ max-width:900px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Back Cover</h1>
+
+<img src="English_ver_back_cover 2.jpg">
+
+<br><br>
+
+<a href="index.html">
+Back Home
+</a>
+
+</body>
+</html>
